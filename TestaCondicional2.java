@@ -1,4 +1,4 @@
-
+//Operadores lógicos
 public class TestaCondicional2 {
 	public static void main(String[] args) {
 
